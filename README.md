@@ -2,7 +2,8 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
   
-### I'm Indrasena Kalyanam
+## I'm Indrasena Kalyanam
+### Certified Microsoft Technology Associate | Full Stack Developer | Computer Networks Course Support Intern @ IEEE | Computer Engineer
 
 <a href="https://www.linkedin.com/in/indrasena-kalyanam/">
   <img align="left" alt="Indrasena's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -24,8 +25,7 @@ Experienced Web Developer with a demonstrated history of working in the educatio
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via kindrasena8@gmail.com to reach me.
 - 📝 See my [Resume](https://drive.google.com/file/d/1wVFxZPTrkkL_91YTFvgoeYloV0cd3Q7_/view?usp=sharing) to get more info.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⭐ Programmer, Designer, Developer, Debugger
 
 ### - Languages and Tools...
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
@@ -40,3 +40,6 @@ Experienced Web Developer with a demonstrated history of working in the educatio
 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+
+### 🏆 Github Status
+![My Github Status](https://github-readme-stats.vercel.app/api?username=Indrasena8&show_icons=true&hide_border=true)
