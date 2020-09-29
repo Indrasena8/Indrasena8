@@ -27,7 +27,7 @@ Experienced Web Developer with a demonstrated history of working in the educatio
 - 📝 See my [Resume](https://drive.google.com/file/d/1wVFxZPTrkkL_91YTFvgoeYloV0cd3Q7_/view?usp=sharing) to get more info.
 - ⭐ Programmer, Designer, Developer, Debugger
 
-### - Languages and Tools...
+### Languages and Tools...
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
