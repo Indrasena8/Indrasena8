@@ -21,7 +21,7 @@ Experienced Web Developer with a demonstrated history of working in the educatio
 - 🔭 I’m currently working on <b>Android App Development Technology</b>
 - 🌱 I’m currently learning <b>Mobile Application Development<b>
 - 👯 I’m looking to collaborate on Project which improves skill in <b>Web Application</b> domains
-- 🤔 I’m looking for help with 
+<!--- 🤔 I’m looking for help with -->
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via kindrasena8@gmail.com to reach me.
 - 📝 See my [Resume](https://drive.google.com/file/d/1wVFxZPTrkkL_91YTFvgoeYloV0cd3Q7_/view?usp=sharing) to get more info.
@@ -41,9 +41,10 @@ Experienced Web Developer with a demonstrated history of working in the educatio
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 
+### 🏆 Github Status
+![My Github Status](https://github-readme-stats.vercel.app/api?username=Indrasena8&show_icons=true&theme=dark&hide_border=true)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Indrasena8&theme=dark&layout=compact)](https://github.com/Indrasena8/github-readme-stats)
 <br/>
-
-### 🏆 Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=Indrasena8&show_icons=true&theme=dark&hide_border=true)
