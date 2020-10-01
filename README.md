@@ -41,5 +41,9 @@ Experienced Web Developer with a demonstrated history of working in the educatio
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Indrasena8&theme=dark&layout=compact)](https://github.com/Indrasena8/github-readme-stats)
+<br/>
+
 ### 🏆 Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=Indrasena8&show_icons=true&hide_border=true)
+![My Github Status](https://github-readme-stats.vercel.app/api?username=Indrasena8&show_icons=true&theme=dark&hide_border=true)
