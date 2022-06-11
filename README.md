@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
   
-## I'm Indrasena Kalyanam
-### Full Stack Developer | CSE | Programmer @IntegraConnect
+## Indrasena Kalyanam
+### CSE | Full Stack Developer | Programmer @IntegraConnect
 
 <a href="https://www.linkedin.com/in/indrasena-kalyanam/">
   <img align="left" alt="Indrasena's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
