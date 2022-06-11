@@ -39,6 +39,8 @@ Experienced Web Developer with a demonstrated history of working in the educatio
 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=dotnet&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+
 Csharp/Dotnet, KendoUI, Telerik Reporting
   
 
