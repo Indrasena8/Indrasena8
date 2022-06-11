@@ -16,16 +16,16 @@
 </a>
 <br />
 <br />
-Experienced Web Developer with a demonstrated history of working in the education management industry. Skilled in Mobile & Web Application Development, Java, Python, PHP, and JSP. Interested in exploring new technologies. I am also passionate towards teaching. Strong engineering professional with a Bachelor of Engineering - BE focused in Computer Science from K S Institute of Technology, BANGALORE.
+Experienced Web Developer with a demonstrated history of working in the education management industry. Skilled in Mobile & Web Application Development, Java, Csharp/Dotnet, Python, PHP, and JSP. Interested in exploring new technologies. Currently exploring towards AngularJS. I am also passionate towards teaching. Strong engineering professional with a Bachelor of Engineering - BE focused in Computer Science from K S Institute of Technology, BANGALORE. 
 
-- 🔭 I’m currently working on <b>Android App Development Technology</b>
-- 🌱 I’m currently learning <b>Mobile Application Development<b>
+- 🔭 I’m currently working on <b>Csharp/Dotnet, KendoUI, Telerik Reporting</b>
+- 🌱 I’m also exploring <b>Angular<b>
 - 👯 I’m looking to collaborate on Project which improves skill in <b>Web Application</b> domains
 <!--- 🤔 I’m looking for help with -->
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via kindrasena8@gmail.com to reach me.
-- 📝 See my [Resume](https://drive.google.com/file/d/1wVFxZPTrkkL_91YTFvgoeYloV0cd3Q7_/view?usp=sharing) to get more info.
-- ⭐ Programmer, Designer, Developer, Debugger
+- 📫 Please email via indrasenakalyanam@gmail.com to reach me.
+- 📝 See my [Resume] - [https://drive.google.com/file/d/1wVFxZPTrkkL_91YTFvgoeYloV0cd3Q7_/view?usp=sharing) to get more info.
+- ⭐ Programmer, Designer, Developer, Debugger, Techie
 
 ### Languages and Tools...
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
