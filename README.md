@@ -24,7 +24,7 @@ Experienced Web Developer with a demonstrated history of working in the educatio
 <!--- 🤔 I’m looking for help with -->
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via indrasenakalyanam@gmail.com to reach me.
-- 📝 See my <a link="http://surl.li/cehep">Resume</a> to get more info.
+- 📝 See my <a href="http://surl.li/cehep">Resume</a> to get more info.
 - ⭐ Programmer, Designer, Developer, Debugger, Techie
 
 ### Languages and Tools...
