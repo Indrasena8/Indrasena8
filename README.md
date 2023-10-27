@@ -18,7 +18,7 @@
 <br />
 I am an experienced Full Stack Web Developer with a demonstrated track record in software development. With expertise as a skilled Web Application Developer proficient in .NET, C#, and Azure Cloud technologies, I have successfully delivered projects and contributed to the development of robust web applications. I am constantly driven by the desire to expand my knowledge and keep up with the latest advancements in the field. Passionate about exploring new technologies, I actively seek opportunities to dive into unfamiliar areas. This curiosity fuels my growth and enables me to adapt and deliver innovative solutions in an ever-evolving digital landscape.
 
-- 🔭 I’m currently working on <b>Csharp/Dotnet, Azure Cloud, KendoUI, Telerik Reporting</b>
+- 🔭 2+ years work experience on <b>Csharp/Dotnet, Azure Cloud, KendoUI, Telerik Reporting</b>
 - 🌱 I’m also exploring <b>Angular<b>
 - 👯 I’m looking to collaborate on Project which improves skill in <b>Web Application</b> domains with Java Tech Stack
 <!--- 🤔 I’m looking for help with -->
