@@ -42,12 +42,6 @@ I am an experienced Full Stack Web Developer with a demonstrated track record in
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=dotnet&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 
 Csharp/Dotnet, KendoUI, Telerik Reporting
-  
-
-### 🏆 Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=Indrasena8&show_icons=true&theme=dark&hide_border=true)
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Indrasena8&theme=dark&layout=compact)](https://github.com/Indrasena8/github-readme-stats)
 <br/>
