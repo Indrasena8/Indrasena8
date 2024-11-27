@@ -43,7 +43,7 @@ I'm actively seeking internship or full-time opportunities where I can apply my 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Indrasena8&theme=dark&layout=compact)](https://github.com/Indrasena8/github-readme-stats)
 <br/>
 
-# Connect with Me
+### Connect with Me
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/indrasena-kalyanam/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Indrasena8)
