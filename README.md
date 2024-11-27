@@ -40,9 +40,6 @@ I'm actively seeking internship or full-time opportunities where I can apply my 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,visualstudio,androidstudio,anaconda,ubuntu,bash,sublime,replit,pycharm,powershell,postman,git,github,eclipse&perline=8)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Indrasena8&theme=dark&layout=compact)](https://github.com/Indrasena8/github-readme-stats)
-<br/>
-
 ### Connect with Me
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/indrasena-kalyanam/)
