@@ -5,9 +5,6 @@
 ## Indrasena Kalyanam
 ### CSE | Software Developer
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/indrasena-kalyanam/)
-
-<br />
 <br />
 I am a Master's in Computer Science candidate at the University of Wisconsin-Milwaukee, graduating in May 2025, with a strong foundation in full-stack development, cloud technologies, and AI integration. My experience spans across .NET, C#, Java, Kubernetes, AWS, Azure, and more, with a focus on building scalable, secure, and efficient applications.
 
@@ -45,3 +42,9 @@ I'm actively seeking internship or full-time opportunities where I can apply my 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Indrasena8&theme=dark&layout=compact)](https://github.com/Indrasena8/github-readme-stats)
 <br/>
+
+# Connect with Me
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/indrasena-kalyanam/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Indrasena8)
+
