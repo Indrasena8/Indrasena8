@@ -36,7 +36,7 @@ BackEnd                : [![My Skills](https://skillicons.dev/icons?i=java,cs,do
 Cloud                  : [![My Skills](https://skillicons.dev/icons?i=aws,azure,kubernetes)](https://skillicons.dev)<br/>
 Databases              : [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,mongodb,dynamodb)](https://skillicons.dev)<br/>
 Frameworks/Libraries   : [![My Skills](https://skillicons.dev/icons?i=sklearn,opencv,redis,npm,nginx)](https://skillicons.dev)<br/>
-Tools                  : [![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,visualstudio,androidstudio,anaconda,ubuntu,bash,sublime,replit,pycharm,powershell,postman,git,github,eclipse)](https://skillicons.dev)<br/>
+Tools                  : [![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,visualstudio,androidstudio,anaconda,ubuntu,bash,sublime,replit,pycharm,powershell,postman,git,github,eclipse&perline=8)](https://skillicons.dev)<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Indrasena8&theme=dark&layout=compact)](https://github.com/Indrasena8/github-readme-stats)
 <br/>
