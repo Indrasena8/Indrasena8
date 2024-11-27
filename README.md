@@ -30,7 +30,7 @@ I'm actively seeking internship or full-time opportunities where I can apply my 
 - 📫 Please email via indrasenakalyanam@gmail.com to reach me.
 - ⭐ Areas of Interest: Designer, Developer, Cyber Security, AI/ML/NLP
 
-### 💻 My Tech Stack
+## 💻 My Tech Stack
 
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,react,angular)](https://skillicons.dev)
