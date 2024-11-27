@@ -30,13 +30,25 @@ I'm actively seeking internship or full-time opportunities where I can apply my 
 - 📫 Please email via indrasenakalyanam@gmail.com to reach me.
 - ⭐ Areas of Interest: Designer, Developer, Cyber Security, AI/ML/NLP
 
-### Languages and Tools...
-FrontEnd               : [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,react,angular)](https://skillicons.dev)<br/>
-BackEnd                : [![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,py,django,flask,nodejs,c,cpp,php)](https://skillicons.dev)<br/>
-Cloud                  : [![My Skills](https://skillicons.dev/icons?i=aws,azure,kubernetes)](https://skillicons.dev)<br/>
-Databases              : [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,mongodb,dynamodb)](https://skillicons.dev)<br/>
-Frameworks/Libraries   : [![My Skills](https://skillicons.dev/icons?i=sklearn,opencv,redis,npm,nginx)](https://skillicons.dev)<br/>
-Tools                  : [![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,visualstudio,androidstudio,anaconda,ubuntu,bash,sublime,replit,pycharm,powershell,postman,git,github,eclipse&perline=8)](https://skillicons.dev)<br/>
+### 💻 My Tech Stack
+
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,react,angular)](https://skillicons.dev)
+
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,py,django,flask,nodejs,c,cpp,php)](https://skillicons.dev)
+
+### Cloud
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,kubernetes)](https://skillicons.dev)
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,mongodb,dynamodb)](https://skillicons.dev)
+
+### Frameworks & Libraries
+[![My Skills](https://skillicons.dev/icons?i=sklearn,opencv,redis,npm,nginx)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,visualstudio,androidstudio,anaconda,ubuntu,bash,sublime,replit,pycharm,powershell,postman,git,github,eclipse&perline=8)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Indrasena8&theme=dark&layout=compact)](https://github.com/Indrasena8/github-readme-stats)
 <br/>
