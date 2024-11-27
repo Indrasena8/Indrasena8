@@ -31,19 +31,13 @@ I'm actively seeking internship or full-time opportunities where I can apply my 
 - ⭐ Areas of Interest: Designer, Developer, Cyber Security, AI/ML/NLP
 
 ### Languages and Tools...
-[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+FrontEnd               : [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,react,angular)](https://skillicons.dev)
+BackEnd                : [![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,py,django,flask,nodejs,c,cpp,php)](https://skillicons.dev)
+Cloud                  : [![My Skills](https://skillicons.dev/icons?i=aws,azure,kubernetes)](https://skillicons.dev)
+Databases              : [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,mongodb,dynamodb)](https://skillicons.dev)
+Frameworks/Libraries   : [![My Skills](https://skillicons.dev/icons?i=sklearn,opencv,redis,npm,nginx)](https://skillicons.dev)
+Tools                  : [![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,visualstudio,androidstudio,anaconda,ubuntu,bash,sublime,replit,pycharm,powershell,postman,git,github,eclipse)](https://skillicons.dev)
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)](https://github.com/hritik5102)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=dotnet&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 
 Csharp/Dotnet, KendoUI, Telerik Reporting
 
