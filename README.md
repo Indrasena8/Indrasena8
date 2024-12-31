@@ -3,7 +3,7 @@
   <br><br>
   
 ## Indrasena Kalyanam
-#### Masters in Computer Science | Full Stack Developer | Research Assistant | Teaching Assistant | 2025 Graduate
+#### MS in Computer Science | Research Assistant | Teaching Assistant | C#/.NET Developer | Azure | Kubernetes (AKS) | Microsoft SQL Server | React.js
 
 <br />
 I am a Master's in Computer Science candidate at the University of Wisconsin-Milwaukee, graduating in May 2025, with a strong foundation in full-stack development, cloud technologies, and AI integration. My experience spans across .NET, C#, Java, Kubernetes, AWS, Azure, and more, with a focus on building scalable, secure, and efficient applications.
